@@ -30,7 +30,6 @@
           $('#last-div').addClass('col-lg-3');
           $('#last-div').addClass('text-lg-right');
 
-          $('#footer-').removeClass('footer-session');
           return;
         }
 
@@ -43,14 +42,6 @@
           $('#last-div').removeClass('col-lg-3');
           $('#last-div').removeClass('pt-5');
           $('#last-div').removeClass('text-lg-right');
-
-          $('#footer-').addClass('footer-session');
-          // $('#nav-ul').addClass('ul-menu-top');
-          // $('#nav-ul').removeClass('side-nav');
-          // $('#nav-ul').removeClass('fixed');
-           
-          // $('#nav-li').addClass('ul-menu-li');
-          // $('#nav-menu').addClass('nav-menu-top');
           
           
           setTimeout(function() {
