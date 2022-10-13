@@ -1,6 +1,6 @@
 # NahidEbrahimian.ir
 
-Host: [nahidebrahimian.ir](http://nahidebrahimian.ir/)
+Domain: [nahidebrahimian.ir](http://nahidebrahimian.ir/)
 
 ---
 
