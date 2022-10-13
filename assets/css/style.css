@@ -103,10 +103,12 @@ h1, h2, h3, h4, h5, h6 {
   #header .social-links {
     display: none !important;
   }
-
-  /* #header .middle-div{
-    align-items: center !important;
-  } */
+  #header .download-tag a{
+    margin-right: 0px !important;
+  }
+  .mobile-nav span{
+    display: inline-block !important;
+  }
 }
 
 #header .social-links a {
