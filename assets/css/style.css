@@ -427,7 +427,7 @@ h1, h2, h3, h4, h5, h6 {
 .skillbar-bar .skillbar-child {
   width: 0;
   height: 100%;
-  background-color: #333333;
+  background-color: #fff;
   -webkit-transition-property: width, background-color;
   -o-transition-property: width, background-color;
   transition-property: width, background-color;
@@ -458,6 +458,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   right: 0;
   background: #000000;
+  
   /* color: #000000; */
 }
 #header.header-top .first-div{
@@ -496,7 +497,6 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   margin: 0;
   padding: 0;
-  
 }
 
 #header.header-top .container {
@@ -702,37 +702,6 @@ section .container {
   margin: 0;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-}
-
-/*--------------------------------------------------------------
-# Interests
---------------------------------------------------------------*/
-.interests .icon-box {
-  display: flex;
-  align-items: center;
-  padding: 20px;
-  background: #09203a;
-  transition: ease-in-out 0.3s;
-}
-
-
-.interests .icon-box i {
-  font-size: 32px;
-  padding-right: 10px;
-  line-height: 1;
-}
-
-.interests .icon-box h3 {
-  font-weight: 700;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  font-size: 16px;
-  color: #fff;
-}
-
-.interests .icon-box:hover {
-  background: #042b56eb;
 }
 
 /*--------------------------------------------------------------
@@ -1320,7 +1289,7 @@ section .container {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #15bb62;
+  background: #ffffff;
 }
 
 @-webkit-keyframes animate-loading {
